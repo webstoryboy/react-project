@@ -16,14 +16,6 @@ React는 가상 DOM(Virtual DOM)을 활용하여 성능을 향상시키고, UI�
 3. sass 설치 `npm i sass`
 4. lenis 설치 `npm i @studio-freight/lenis`
 
-### GSAP
-GSAP, 또는 GreenSock Animation Platform은 웹 애니메이션을 만들기 위한 강력한 JavaScript 라이브러리입니다. GSAP는 HTML, SVG, 캔버스 등 다양한 웹 요소를 애니메이션화하는 데 사용됩니다.   
-   
-이 라이브러리는 강력한 기능과 직관적인 API를 제공하여 다양한 애니메이션 효과를 만들기 쉽게 합니다. GSAP는 성능이 우수하며, 애니메이션의 부드러움과 자연스러움을 유지하는 데 강점을 가지고 있습니다.
-
-### lenis
-lenis.js는 JavaScript로 작성된 오픈 소스 웹 프레임워크입니다. 이 프레임워크는 웹 애플리케이션 및 API를 개발하기 위해 사용됩니다. lenis.js는 경량화되고 빠른 속도로 동작하며, 간단한 문법과 구조를 제공하여 개발자가 쉽게 웹 애플리케이션을 구축할 수 있도록 도와줍니다.
-
 ## 트러블 슈팅
 <details>
 <summary>Whitespace 에러 </summary>
@@ -35,3 +27,11 @@ Git이 이 둘 중 어느 쪽을 선택할지 혼란이 온 것이다!
 `git config --global core.autocrlf true // 시스템 전체에 적용`   
 `git config core.autocrlf true // 해당 프로젝트에만 적용`   
 </details>
+
+### GSAP
+GSAP, 또는 GreenSock Animation Platform은 웹 애니메이션을 만들기 위한 강력한 JavaScript 라이브러리입니다. GSAP는 HTML, SVG, 캔버스 등 다양한 웹 요소를 애니메이션화하는 데 사용됩니다.   
+   
+이 라이브러리는 강력한 기능과 직관적인 API를 제공하여 다양한 애니메이션 효과를 만들기 쉽게 합니다. GSAP는 성능이 우수하며, 애니메이션의 부드러움과 자연스러움을 유지하는 데 강점을 가지고 있습니다.
+
+### lenis
+lenis.js는 JavaScript로 작성된 오픈 소스 웹 프레임워크입니다. 이 프레임워크는 웹 애플리케이션 및 API를 개발하기 위해 사용됩니다. lenis.js는 경량화되고 빠른 속도로 동작하며, 간단한 문법과 구조를 제공하여 개발자가 쉽게 웹 애플리케이션을 구축할 수 있도록 도와줍니다.
