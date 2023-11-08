@@ -15,6 +15,7 @@ React는 가상 DOM(Virtual DOM)을 활용하여 성능을 향상시키고, UI�
 2. gsap 설치 `npm i gsap`
 3. sass 설치 `npm i sass`
 4. lenis 설치 `npm i @studio-freight/lenis`
+5. react-router-dom 설치 `npm i react-router-dom`
 
 ## 트러블 슈팅
 <details>
